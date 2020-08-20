@@ -1,7 +1,10 @@
 <strong>This web project is about creating a small web application allowing to make some basic photo and video editing using your webcam and some predefined images. Any fancy frameworks were forbidden. I used the MVC structure for this project</strong>
 
+ <img src="https://github.com/iljaSL/camagru/blob/master/app/assets/images/site/siteimage.png" width="1000" height="1000"/>
+
+
 <h3>Stack</h3>
-<strong>Frontend: HTML, CSS/Bootstrap 4, Javascript</strong>
+<strong>Frontend: HTML, CSS/Bootstrap 4, Javascript</strong><br>
 <strong>Backend: PHP, MySQL, Apache</strong>
 
 <h3>How to install</h3>
