@@ -1,0 +1,30 @@
+.thumbnail {
+    margin: 10px 0;
+}
+
+.thumbnail_container:hover .thumbnail {
+    filter: grayscale(100%)
+}
+
+.thumbnail_container:hover .thumbnail_overlay {
+    visibility: visible;
+}
+
+.thumbnail_container {
+    position: relative;
+}
+
+.thumbnail_overlay {
+	position: absolute;
+	top: 10px;
+	bottom: 16px;
+	left: 0;
+	right: 0;
+    visibility: hidden;
+	display: flex;
+	justify-content: end;
+}
+
+.delete {
+    margin: 5px 5px 0 0;
+}
