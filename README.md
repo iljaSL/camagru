@@ -1,4 +1,4 @@
-<strong>This web project is about creating a small web application allowing to make some basic photo and video editing using your webcam and some predefined images. Any fancy frameworks were forbidden. I used the MVC structure for this project</strong>
+<strong>This first web project at Hive Helsinki is about creating a small web application allowing to make some basic photo and video editing using your webcam and some predefined images. Any fancy frameworks were forbidden. I used the MVC structure for this project</strong>
 
  <img src="https://github.com/iljaSL/camagru/blob/master/app/assets/images/site/siteimage.png" width="1000" height="600"/>
 
