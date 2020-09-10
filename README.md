@@ -18,7 +18,7 @@
 </ul>
 
 <h3>Features</h3>
-<h5>Security first!</h5>
+<h5><strong>Security first!</strong></h5>
 <ul>
   <li>Passwords are encrypted in the database.</li>
   <li>Protected agains cross-site scripting</li>
