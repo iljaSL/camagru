@@ -25,7 +25,7 @@
   <li>Protected agains Cross-site request forgery with the help of tokens</li>
   <li>Protected agains SQL injections</li>
   <li>A high complexity password is required from the user</li>
-  <li>Registration and the reset of the password needs to be confirmed with a unique link</li>
+  <li>Registration and the reset of the password needs to be confirmed with a unique link that is sent to the user's email</li>
 </ul>
 <h5>Site features</h5>
 <ul>
@@ -35,4 +35,5 @@
   <li>The user can delete her/ his post.</li>
   <li>The user gets notified via email if someone comments on her/his post</li>
   <li>AJAX is used</li>
+ <li>Infinity scroll</li>
 </ul>
