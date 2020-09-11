@@ -1,4 +1,4 @@
-<strong>This web project is about creating a small web application allowing to make some basic photo and video editing using your webcam and some predefined images. Any fancy frameworks were forbidden. I used the MVC structure for this project</strong>
+<strong>This first web project at Hive Helsinki is about creating a small web application allowing to make some basic photo and video editing using your webcam and some predefined images. Any fancy frameworks were forbidden. I used the MVC structure for this project</strong>
 
  <img src="https://github.com/iljaSL/camagru/blob/master/app/assets/images/site/siteimage.png" width="1000" height="600"/>
 
@@ -18,14 +18,14 @@
 </ul>
 
 <h3>Features</h3>
-<h5>Security first!</h5>
+<h5><strong>Security first!</strong></h5>
 <ul>
   <li>Passwords are encrypted in the database.</li>
   <li>Protected agains cross-site scripting</li>
   <li>Protected agains Cross-site request forgery with the help of tokens</li>
   <li>Protected agains SQL injections</li>
   <li>A high complexity password is required from the user</li>
-  <li>Registration and the reset of the password needs to be confirmed with a unique link</li>
+  <li>Registration and the reset of the password needs to be confirmed with a unique link that is sent to the user's email</li>
 </ul>
 <h5>Site features</h5>
 <ul>
@@ -35,4 +35,5 @@
   <li>The user can delete her/ his post.</li>
   <li>The user gets notified via email if someone comments on her/his post</li>
   <li>AJAX is used</li>
+ <li>Infinity scroll</li>
 </ul>
